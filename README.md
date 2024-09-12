@@ -55,6 +55,7 @@ ________
 4. Expand the project in the package explorer and find the .java files below the **src** folder.
 
 ## _(Complete the Assignment)_
+![class diagram](boat_class_diagram.png)
 In this challenge you are going to write code to support a boat shop.
 
 The shop needs to be able to store data about their boats, such a make, color, speed and price. Furthermore, the shop also needs to keep track of where their boats are stored.
