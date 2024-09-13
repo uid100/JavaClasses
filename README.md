@@ -222,8 +222,7 @@ Hints: You will have to override the toString method multiple times in this prog
  
 ___________
 ## Complete and zip the project
-1. Run  and add the code to the source file
-(`M2ArrayChallenge.java`) until the tests are successful.
+1. Run and modify and add to the class files in the src folder until the tests are successful.
 2. Uncomment each test case in the **Test** file (`TestBeginningClasses.java`), one at a time. 
 Do not modify the content in this file except to uncomment the tests. Add and modify class files
 as needed for the tests to pass.
